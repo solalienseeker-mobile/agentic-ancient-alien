@@ -1,0 +1,12 @@
+{
+  "name": "ancient-loopers",
+  "version": "1.0.0",
+  "scripts": {
+    "deploy": "hardhat run deploy.js --network neondevnet"
+  },
+  "dependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.19.0",
+    "dotenv": "^16.3.1"
+  }
+}

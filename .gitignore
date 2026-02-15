@@ -1,0 +1,16 @@
+# Environment files (may contain secrets)
+.env
+ralph-loop-agent/.env
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Node
+node_modules/
+
+# VS Code
+.vscode/
+
+# Build artifacts
+artifacts/
